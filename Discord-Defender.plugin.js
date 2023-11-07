@@ -3,8 +3,8 @@
  * @version 1.0.0
  * @description A BetterDiscord plugin protect you from discord running unwanted js codes.
  * @author PicoShot
- * @source https://github.com/Strencher/BetterDiscordStuff/tree/master/ShowSessions
- * @script https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/ShowSessions/ShowSessions.plugin.js
+ * @source https://github.com/PicoShot/discord_defender/blob/main/Discord-Defender.plugin.js
+ * @script https://raw.githubusercontent.com/PicoShot/discord_defender/main/Discord-Defender.plugin.js
  */
 const config = {
 	"info": {
@@ -16,8 +16,8 @@ const config = {
 			"discord_id": "1069807682921439323",
 			"github_username": "PicoShot"
 		}],
-		"github": "https://github.com/Strencher/BetterDiscordStuff/tree/master/ShowSessions",
-		"github_raw": "https://raw.githubusercontent.com/Strencher/BetterDiscordStuff/master/ShowSessions/ShowSessions.plugin.js"
+		"github": "https://github.com/PicoShot/discord_defender/blob/main/Discord-Defender.plugin.js",
+		"github_raw": "https://raw.githubusercontent.com/PicoShot/discord_defender/main/Discord-Defender.plugin.js"
 	},
 	"changelog": [{
 		"type": "fixed",
